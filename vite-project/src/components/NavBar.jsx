@@ -15,10 +15,10 @@ function NavBar() {
           <NavLink to="/stats">Stats</NavLink>
         </li>
         <li>
-          <NavLink to="/about">About</NavLink>
+          <NavLink to="/counter1">Counter 1x</NavLink>
         </li>
         <li>
-          <NavLink to="/contact">Contact</NavLink>
+          <NavLink to="/counter5">Counter 5x</NavLink>
         </li>
       </ul>
     </nav>
