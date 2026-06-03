@@ -1,6 +1,6 @@
 # Hi, I'm Mukul Raj! 👋
 
-I'm a **Data Scientist & Software Development Engineer ** focused on building production-ready, data-driven systems. I bridge the gap between complex ETL pipelines and user-centric AI applications.
+I'm a **Data Scientist & Software Development Engineer** focused on building production-ready, data-driven systems. I bridge the gap between complex ETL pipelines and user-centric AI applications.
 
 ### 🛠 Tech Stack
 - **Languages:** TypeScript, Python, Node.js, SQL, Java, Javascript,
